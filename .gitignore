@@ -32,3 +32,10 @@ Godeps/
 # Build directories
 bin/
 obj/
+
+# Binaries for programs and plugins
+myapp
+
+# credentials
+credentials.go
+
